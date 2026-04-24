@@ -1,0 +1,6 @@
+{
+  "name": "Research Article Analyzer",
+  "description": "A sophisticated tool for researchers to analyze PDF articles, generate structured summaries, and cross-reference findings against specific research questions using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
